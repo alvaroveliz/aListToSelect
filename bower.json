@@ -1,5 +1,5 @@
 {
-  "name": "aListToSelect",
+  "name": "jquery.alisttoselect",
   "version": "1.0.0",
   "homepage": "https://github.com/alvaroveliz/aListToSelect",
   "authors": [
@@ -9,7 +9,7 @@
     "jquery": "1.8.*",
   ],
   "description": "Converts a list into a choice menu",
-  "main": "alisttoselect.js",
+  "main": "jquery.alisttoselect.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
