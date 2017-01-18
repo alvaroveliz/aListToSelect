@@ -5,9 +5,6 @@
   "authors": [
     "Alvaro Veliz <alvaro.veliz@gmail.com>"
   ],
-  "dependencies" : [
-    "jquery": "1.8.*",
-  ],
   "description": "Converts a list into a choice menu",
   "main": "jquery.alisttoselect.js",
   "license": "MIT",
@@ -17,5 +14,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "jquery": "*"
+  }
 }
